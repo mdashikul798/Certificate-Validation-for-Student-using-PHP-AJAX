@@ -1,0 +1,36 @@
+.home_main_contents {
+    width: 100%;
+    margin: 3% 27%;
+}
+
+.stu_certificate {
+    margin-bottom: 10px;
+}
+
+.capture img {
+    margin-bottom: 10px;
+}
+
+.error {
+    width: 100%;
+    height: 13px;
+    color: red;
+}
+
+.form-data {
+    width: 50%;
+    margin: 3% 25%;
+}
+
+.cont-title h2 {
+    margin: 2% 33%;
+}
+
+.form-data input {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.form-data label {
+    font-weight: 200;
+}
